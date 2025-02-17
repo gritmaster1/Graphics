@@ -1,2 +1,2 @@
 # Graphics
-Repository containing all my learnings and implementation of OpenGL Using Python and C++
+Repository containing all my learnings and implementations of OpenGL Using Python and C++.
